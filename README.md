@@ -16,10 +16,10 @@ Mar 20,2016
 Please use the Museum of Physics.app on Mac to play with this game.
 
 Control:;
-⬆️ W;
-⬇️ S;
-⬅️A;
-  D;
+⬆️  W
+⬇️  S
+⬅️ A
+➡ D
 Speed up: Shift;
 Bounce: Space;
 
